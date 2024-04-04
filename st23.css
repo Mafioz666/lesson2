@@ -1,0 +1,39 @@
+.boxr, .boxl, .boxc {
+    height: 600px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxc{
+    background-color: #1cc21c;
+    margin: 10px
+}
+.boxl{
+    background-color: #2748cc;
+}
+.boxr{
+    background-color: #e4ec08;
+}
+.flex {
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px
+}
+.box1 {
+    height: 700px;
+    background: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px
+}.box2 {
+     height: 800px;
+     background: #c6e;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 10px
+ }
